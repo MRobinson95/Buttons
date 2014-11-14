@@ -15,7 +15,7 @@ $(document).on("pagecreate","#pageone",function(){
   	});   
 
 	$('#swipetext').on("swiperight",function(){
-    	$(this).css('color', 'blue');
+    	$(this).css('color', 'red');
   	});   
 
 });
